@@ -29,7 +29,7 @@ h2{
 }
 
 h3{
-    font-size: 34;
+    font-size: 20;
 }
 
 .ex1-1, .ex1-2{
@@ -39,10 +39,10 @@ h3{
     margin-bottom: 8px;
 }
 
-.ex li a{
+/* .ex li a{
     color: #ff5214;
     text-decoration: none;
-}
+} */
 
 .ex2 ul li a{
     color:#ff5214;
