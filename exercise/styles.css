@@ -20,7 +20,7 @@ nav a:hover {
     color: #d64527;
 }
 
-/* --- Cabecera y Títulos --- */
+/* --- Cabecera y títulos --- */
 h1 {
     color: #2b2d42;
     margin-bottom: 10px;
@@ -87,7 +87,6 @@ textarea, input[type="text"], input[type="email"] {
     font-family:    'Segoe UI';
     margin-bottom: 15px;
 }
-
 
 
 button {
